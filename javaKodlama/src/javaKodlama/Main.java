@@ -11,6 +11,7 @@ public class Main {
 		
 		Student student = new Student(user2,2);
 		
+		
 		UserManager userManager = new UserManager();
 		
 		InstructorManager instructorManager = new InstructorManager();
