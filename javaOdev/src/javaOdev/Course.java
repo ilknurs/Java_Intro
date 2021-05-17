@@ -5,7 +5,7 @@ public class Course {
 	String description;
 
 	public Course() {
-
+ 
 	}
 
 	public Course(String name, String description) {
